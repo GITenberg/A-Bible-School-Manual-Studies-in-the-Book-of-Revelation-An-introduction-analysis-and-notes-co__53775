@@ -1,0 +1,29 @@
+_repo: A-Bible-School-Manual-Studies-in-the-Book-of-Revelation-An-introduction-analysis-and-notes-co__53775
+_version: 0.0.1
+alternative_title: Studies in the Book of Revelation
+creator:
+  author:
+    agent_name: Hunter, Stephen Alexander
+    birthdate: 1851
+    gutenberg_agent_id: '47530'
+    url: http://www.gutenberg.org/2009/agents/47530
+description: ''
+gutenberg_issued: '2016-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53775'
+  lccn: '21013012'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Revelation -- Commentaries'
+- !lcc 'BS'
+- GITenberg
+title: "A Bible School Manual: Studies in the Book of Revelation\r\nAn introduction,\
+  \ analysis, and notes, containing a concise interpretation according to the symbolic\
+  \ view, numerous references to authorities, and general mention of other interpretations,\
+  \ with the text of the American revised version edited in paragraphs, for the use\
+  \ of Bible students"
+url: http://www.gutenberg.org/ebooks/53775
