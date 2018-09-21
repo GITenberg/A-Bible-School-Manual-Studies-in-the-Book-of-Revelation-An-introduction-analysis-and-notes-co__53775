@@ -1,6 +1,9 @@
 _repo: A-Bible-School-Manual-Studies-in-the-Book-of-Revelation-An-introduction-analysis-and-notes-co__53775
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Studies in the Book of Revelation
+covers:
+- cover_type: archival
+  image_path: 53775-tei/images/cover.jpg
 creator:
   author:
     agent_name: Hunter, Stephen Alexander
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47530'
     url: http://www.gutenberg.org/2009/agents/47530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53775#A-Bible-School-Manual-Studies-in-the-Book-of-Revelation-An-introduction-analysis-and-notes-co_
 gutenberg_issued: '2016-12-20'
 gutenberg_type: Text
 identifiers:
